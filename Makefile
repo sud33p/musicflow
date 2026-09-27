@@ -1,4 +1,4 @@
-.PHONY: all build build-static install-scripts clean
+.PHONY: all build build-static clean
 
 all: build
 
