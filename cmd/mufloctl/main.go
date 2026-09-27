@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/mafredri/goodspeaker"
-	"github.com/mafredri/musicflow"
+	"github.com/sud33p/musicflow"
 )
 
 var (

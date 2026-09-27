@@ -12,7 +12,7 @@ import (
 
 	errors "golang.org/x/xerrors"
 
-	"github.com/mafredri/musicflow/api"
+	"github.com/sud33p/musicflow/api"
 )
 
 // makeClientID returns a clientID which looks similar in structure to

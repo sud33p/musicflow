@@ -8,7 +8,7 @@ import (
 
 	errors "golang.org/x/xerrors"
 
-	"github.com/mafredri/musicflow/api"
+	"github.com/sud33p/musicflow/api"
 )
 
 // Request to the speaker.

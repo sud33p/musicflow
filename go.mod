@@ -1,4 +1,4 @@
-module github.com/mafredri/musicflow
+module github.com/sud33p/musicflow
 
 go 1.14
 
